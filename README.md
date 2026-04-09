@@ -1,6 +1,6 @@
 # JavaScript Tasks
 
-This repository contains my solutions for the Modern JavaScript Tutorial tasks from the Udemy learning path.
+This repository contains my solutions for the Modern JavaScript tasks from the Udemy learning path.
 
 ## Tasks
 
